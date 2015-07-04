@@ -15,7 +15,7 @@ public class Car {
 			parent = p;
 		    c  = parent.color(x);
 		    x = 0;
-		    y = 100;
+		    y = 115;
 		    speed = 1;
 		  }  
 }
